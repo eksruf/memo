@@ -4,9 +4,6 @@ git clone (깃허브코드 주소)
 git branch -r
 =지정한 원격지에 대한 브런치를 보여준다
 
-git branch -a -pc
-=원격지에 대한 브런치 모두를 보여준다
-
 git push (깃허브별칭) --delete (브런치명)
 =원격지에 있는 브런치 삭제
 
